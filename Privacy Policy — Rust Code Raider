@@ -1,0 +1,120 @@
+# Privacy Policy — Rust Code Raider
+
+**Last updated: May 2026**
+
+This Privacy Policy describes how Rust Code Raider ("the App", "we", "our") handles information when you use our mobile application. The App is designed for use by players of the game Rust to track and share in-game code lock numbers.
+
+---
+
+## 1. Information We Collect
+
+### a) Information You Provide
+The App does not require you to create an account or provide any personal information such as your name, email address, or phone number.
+
+When you press the "Found" button in the App, an anonymous counter is incremented in our database for the associated number. This action is not linked to your identity.
+
+### b) Information Collected Automatically — Advertising (Google AdMob)
+The App displays banner advertisements served by Google AdMob. To deliver and measure ads, AdMob may automatically collect:
+
+- **Device identifiers**, such as the Android Advertising ID (AAID)
+- **IP address** (used to infer approximate location for ad targeting)
+- **App usage data**, such as ad impressions and interactions
+- **Device information**, such as device model, operating system version, and screen size
+
+Google's use of data collected through AdMob is governed by [Google's Privacy Policy](https://policies.google.com/privacy).
+
+You can reset or opt out of personalised advertising at any time:
+- On Android: **Settings → Privacy → Ads → Delete advertising ID** (Android 12+) or **Opt out of Ads Personalisation** (Android 11 and below)
+
+### c) Information Collected Automatically — Firebase / Firestore
+The App uses Google Firebase Firestore to store and retrieve code lock numbers and their associated "found" counts. Firebase may collect standard technical data, including IP address, as part of normal service operation. No personally identifiable information is stored in Firestore by this App.
+
+Firebase's data handling is governed by [Google's Privacy Policy](https://policies.google.com/privacy) and the [Firebase Terms of Service](https://firebase.google.com/terms).
+
+---
+
+## 2. How We Use Information
+
+We use the data described above solely to:
+
+- Display the App's core functionality (number browsing and found tracking)
+- Serve advertisements to support continued development of the App
+- Maintain and improve the App's database
+
+We do not sell, rent, or share your personal data with third parties beyond what is described in Section 1 (Google AdMob and Firebase).
+
+---
+
+## 3. Children's Privacy
+
+The App is not directed at children under the age of 13 (or the relevant age of digital consent in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will take steps to delete it.
+
+Because the App serves personalised advertisements, it is not suitable for use by children, consistent with Google's [Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335).
+
+---
+
+## 4. Data Retention
+
+Found-count data stored in Firestore is retained indefinitely as it is anonymous and serves the App's core function. Advertising identifiers and related data are managed by Google in accordance with their retention policies.
+
+---
+
+## 5. Your Rights
+
+Depending on your jurisdiction, you may have the right to:
+
+- **Access** the data held about you
+- **Request deletion** of data associated with your device
+- **Opt out** of personalised advertising (see Section 1b)
+- **Lodge a complaint** with a data protection authority (for users in the EU/EEA/UK)
+
+Because we do not collect personally identifiable information directly, most individual data rights requests should be directed to Google (for AdMob and Firebase data). You can submit such requests via [Google's Data Request Portal](https://support.google.com/policies/troubleshooter/7575787).
+
+---
+
+## 6. Consent (EU/EEA/UK Users — GDPR)
+
+If you are located in the EU, EEA, or UK, the App will display a consent dialog on first launch powered by Google's User Messaging Platform (UMP). This dialog allows you to choose whether to receive personalised or non-personalised advertisements. You may update your preferences at any time by restarting the App.
+
+The legal basis for processing advertising-related data where consent is given is **Article 6(1)(a) GDPR** (consent). Where consent is not given, non-personalised ads may still be shown; the legal basis in that case is **legitimate interest** as described in Google's policies.
+
+---
+
+## 7. California Users — CCPA
+
+If you are a California resident, you have the right to know what personal information is collected about you, to request deletion, and to opt out of the "sale" of personal information. We do not sell personal information. For data held by Google (AdMob, Firebase), please refer to [Google's California Privacy Notice](https://policies.google.com/privacy/frameworks).
+
+---
+
+## 8. Third-Party Services
+
+The App integrates the following third-party services, each governed by their own privacy policies:
+
+| Service | Purpose | Policy |
+|---|---|---|
+| Google AdMob | Advertising | [policies.google.com/privacy](https://policies.google.com/privacy) |
+| Google Firebase / Firestore | Database | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
+
+---
+
+## 9. Security
+
+We implement reasonable technical measures to protect the data stored in Firestore. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Material changes will be reflected with an updated "Last updated" date at the top of this document. Continued use of the App after such changes constitutes acceptance of the revised policy.
+
+---
+
+## 11. Contact
+
+If you have questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** appdev@investmaestri.com
+
+---
+
+*This policy applies only to the Rust Code Raider mobile application and does not cover any third-party websites or services linked from within the App.*
