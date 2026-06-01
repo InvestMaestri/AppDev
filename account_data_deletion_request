@@ -1,0 +1,12 @@
+Delete Your Numera Account
+To delete your Numera account and associated cloud learning progress:
+
+1. Open Numera.
+2. Open Profile.
+3. Select Delete account.
+4. Confirm the deletion request.
+
+You may also request account deletion by emailing appdev@investmaestri.com from the email address associated with your Numera account. Use the subject line "Numera account deletion request".
+Deleting your account removes your Numera cloud profile, cloud practice-session history, and Firebase Authentication account. Local preferences remain on your device until you clear the app's storage or uninstall the app. Analytics and advertising information processed by service providers is retained according to their policies and applicable settings.
+
+For privacy questions, view our Privacy Policy at https://raw.githubusercontent.com/InvestMaestri/AppDev/refs/heads/main/Privacy%20Policy%20-%20Numera or contact us via email appdev@investmaestri.com.
