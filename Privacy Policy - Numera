@@ -1,0 +1,65 @@
+Privacy Policy for Numera
+Effective date: June 1st, 2026
+
+Numera is a math-practice application provided by Eduardo Bogosian ("we," "us," or "our"). This Privacy Policy explains how Numera accesses, collects, uses, shares, retains, and deletes information. For privacy questions or requests, contact appdev@investmaestri.com.
+
+Information We Collect
+Account information
+You may use Numera without signing in. If you choose to sign in with Google or Apple, we receive account information made available by that provider, which may include your email address, display name, profile photo URL, provider account identifier, and authentication tokens. We use this information to authenticate you and maintain your Numera account.
+
+If you continue without signing in, Firebase Authentication creates an anonymous account identifier so the app can operate. Anonymous users do not receive a cloud profile in the current version of Numera.
+
+Learning progress
+For signed-in users, Numera stores learning progress in Google Firebase Cloud Firestore. This may include your account identifier, display name, email address, profile photo URL, theme preference, practice-session history, selected math subtopics, completion timestamps, scores, XP totals, streaks, badges, and accuracy statistics by subtopic. We use this information to provide progress tracking, history, streaks, and achievements.
+
+Local app data
+Numera stores preferences and question-bank metadata on your device. Local preferences may include your XP total, daily XP progress, daily goal, and related dates. This local data is used to provide app functionality and can be removed by clearing the app's storage or uninstalling the app.
+
+Analytics, advertising, and device information
+Numera uses Google Firebase Analytics and Google AdMob. These services may automatically collect information such as app interactions, advertising interactions, device or other identifiers, approximate location derived from an IP address, diagnostic information, and other device and usage information. We use analytics information to understand app usage and improve Numera. AdMob uses information to provide, measure, and help prevent fraud in advertising, subject to your device settings, consent choices where applicable, and Google's policies. Numera may also retrieve font files from Google Fonts, which causes your device to connect to Google's servers.
+
+How We Use Information
+We use information to:
+
+- authenticate users and maintain accounts;
+- provide math-practice sessions and worked solutions;
+- store and display progress, practice history, XP, streaks, and badges;
+- fetch question content and app metadata;
+- provide, measure, and protect advertising;
+- understand app usage, diagnose issues, and improve Numera;
+- comply with legal obligations and enforce applicable terms.
+
+How We Share Information
+We do not sell your personal information. We share information only as needed to operate Numera, comply with law, or protect users and our services. Our service providers may process information for the purposes described above:
+
+- Google Firebase Authentication for authentication;
+- Google Cloud Firestore for cloud data storage;
+- Google Firebase Analytics for app analytics;
+- Google AdMob for advertising, measurement, and fraud prevention;
+- Google Fonts for font delivery;
+- Google Sign-In and Sign in with Apple when you choose those sign-in methods.
+These providers process information under their own terms and privacy policies.
+Learn more in Google's Privacy Policy and Apple's Privacy Policy.
+
+We may disclose information if required by law, legal process, or a valid governmental request, or when reasonably necessary to protect rights, safety, and security.
+
+Data Security
+We use reasonable administrative and technical safeguards designed to protect information. Cloud data is transmitted to Firebase services using encrypted network connections. No method of transmission or storage is completely secure.
+
+Data Retention and Deletion
+We retain account information and cloud learning progress while your Numera account is active, unless a longer retention period is required by law. You can delete your account and associated cloud learning progress in the app by opening Profile and selecting Delete account. You may also request deletion by emailing appdev@investmaestri.com from the email address associated with your Numera account. Use the subject line "Numera account deletion request".
+
+Deleting your account removes your Numera cloud profile, cloud practice-session history, and Firebase Authentication account. Local preferences remain on your device until you clear the app's storage or uninstall the app. Analytics and advertising information processed by service providers is retained according to their policies and applicable settings.
+
+Children's Privacy
+Numera is an educational app intended for users aged 13 and older. Numera is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe that a child under 13 has provided personal information through Numera, contact us at appdev@investmaestri.com so we can take appropriate action, including deleting the information where required.
+
+Your Choices
+You may continue without signing in, choose whether to sign in with Google or Apple, delete your Numera account in the app, clear local app data through your device settings, uninstall the app, and use applicable device or consent settings to control advertising choices.
+
+Changes to This Policy
+We may update this Privacy Policy from time to time. We will post the updated policy at this URL and revise the effective date above.
+
+Contact Us
+Eduardo Bogosian
+appdev@investmaestri.com
