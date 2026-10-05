@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de Privacidade — Treino CGU</title>
+<meta name="description" content="Política de Privacidade do aplicativo Treino CGU (com.kora.treinocgu). Privacy Policy for the Treino CGU Android app.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1f2328;
+    --muted: #59636e;
+    --line: #d1d9e0;
+    --card: #f6f8fa;
+    --link: #0b57d0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --fg: #e6edf3;
+      --muted: #9198a1;
+      --line: #30363d;
+      --card: #161b22;
+      --link: #7cacf8;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { border-bottom: 1px solid var(--line); padding-bottom: 16px; margin-bottom: 24px; }
+  h1 { font-size: 1.75rem; line-height: 1.25; margin: 0 0 8px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+  p, ul { margin: 0 0 12px; }
+  ul { padding-left: 1.25rem; }
+  li { margin-bottom: 4px; }
+  a { color: var(--link); }
+  .meta { color: var(--muted); font-size: 0.9rem; margin: 0; }
+  .lang { display: flex; gap: 12px; margin-top: 12px; font-size: 0.95rem; }
+  .summary { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px 20px; margin: 16px 0 8px; }
+  .summary ul { margin: 0; }
+  section.version { scroll-margin-top: 16px; }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 48px 0; }
+  code { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 0.92em; }
+  footer { color: var(--muted); font-size: 0.85rem; margin-top: 48px; }
+</style>
+</head>
+<body>
+<main>
+
+<header>
+  <h1>Política de Privacidade — Treino CGU</h1>
+  <p class="meta">Vigente desde 5 de outubro de 2026 · Versão 1.0</p>
+  <nav class="lang" aria-label="Idioma / Language">
+    <a href="#pt" hreflang="pt-BR">Português</a>
+    <a href="#en" hreflang="en">English</a>
+  </nav>
+</header>
+
+<!-- ============================ PORTUGUÊS ============================ -->
+<section class="version" id="pt" lang="pt-BR">
+
+<div class="summary">
+  <ul>
+    <li>O app funciona totalmente offline e <strong>não tem permissão de acesso à internet</strong>.</li>
+    <li>Não há cadastro, login, anúncios, ferramentas de análise (<em>analytics</em>), rastreamento nem bibliotecas de terceiros que coletem dados.</li>
+    <li>Seu progresso e seus favoritos ficam <strong>somente no seu aparelho</strong>. Nós não recebemos, não vemos e não armazenamos esses dados.</li>
+  </ul>
+</div>
+
+<h2>1. Quem é o responsável</h2>
+<p>O aplicativo <strong>Treino CGU</strong> (identificador no Google Play: <code>com.kora.treinocgu</code>) é desenvolvido e publicado por <strong>Kora</strong>, desenvolvedor independente (“nós”). Para os fins da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais — LGPD), Kora é o controlador dos dados pessoais eventualmente tratados conforme esta política.</p>
+<p>Contato de privacidade: <a href="mailto:edbogosian@investmaestri.com">edbogosian@investmaestri.com</a></p>
+
+<h2>2. Dados que o app não coleta</h2>
+<p>O app não pede, não lê e não envia: nome, email, telefone, documentos, contatos, localização, fotos, câmera, microfone, arquivos, identificador de publicidade, identificadores do aparelho ou qualquer outra informação pessoal. O app não solicita nenhuma permissão sensível do Android.</p>
+
+<h2>3. Dados guardados apenas no seu aparelho</h2>
+<p>Para mostrar o seu progresso, o app grava localmente, na área privada do app no Android:</p>
+<ul>
+  <li><strong>Por teste de seção:</strong> número de tentativas, melhor nota, última nota, número de tentativas sem erros e data e hora da última tentativa.</li>
+  <li><strong>Por simulado entregue:</strong> data e hora, tamanho escolhido (100%, 50% ou 25%), total de itens, acertos, erros, itens em branco, tempo usado, tempo limite e se o tempo esgotou. O histórico guarda apenas os simulados mais recentes.</li>
+  <li><strong>Favoritos:</strong> a lista dos itens que você marcou com a estrela.</li>
+  <li><strong>Indicadores de estudo:</strong> total de questões respondidas e as datas de estudo usadas para calcular os dias seguidos e o recorde.</li>
+  <li><strong>Durante um simulado em andamento:</strong> respostas marcadas, itens sinalizados para revisão e tempo decorrido, para que a prova não se perca se o Android fechar o app em segundo plano.</li>
+</ul>
+<p>Esses dados não incluem nome, email nem texto digitado por você, e não são enviados a nós nem a terceiros. O isolamento de apps do Android impede que outros aplicativos os leiam.</p>
+
+<h2>4. Backup do Android</h2>
+<p>Se o backup estiver ativado nas configurações do seu aparelho, o Android pode incluir os dados do item 3 no backup da sua Conta do Google e restaurá-los quando você instalar o app em outro aparelho. Esse serviço é operado pelo Google, de acordo com a <a href="https://policies.google.com/privacy?hl=pt-BR">Política de Privacidade do Google</a>; nós não temos acesso a esses backups. No Android 9 ou superior, o backup é criptografado de ponta a ponta com o PIN, padrão ou senha de bloqueio de tela do aparelho. Você pode desativar o backup nas configurações do Android.</p>
+
+<h2>5. Google Play</h2>
+<p>O download e as atualizações do app são feitos pelo Google Play, que trata dados de acordo com a política de privacidade do Google. O Google Play Console nos mostra estatísticas agregadas (por exemplo, número de instalações e avaliações) e relatórios técnicos de falhas e travamentos enviados por usuários que optaram por compartilhar dados de diagnóstico com o Google. Usamos essas informações apenas para medir o alcance do app e corrigir erros, e não as combinamos com outros dados para identificar ninguém. Avaliações públicas que você publicar no Google Play ficam visíveis para nós e podem receber resposta pública.</p>
+
+<h2>6. Contato por email</h2>
+<p>Se você nos escrever, receberemos o seu endereço de email e o conteúdo da mensagem. Usamos esses dados somente para responder e tratar a sua solicitação. As bases legais são o legítimo interesse (art. 7º, IX, da LGPD) e, no caso de pedidos de titulares, o cumprimento de obrigação legal (art. 7º, II). A caixa de correio é hospedada por um provedor de email, que atua como operador. Guardamos a conversa apenas enquanto for necessária para essa finalidade e a excluímos quando você pedir, salvo obrigação legal de guarda.</p>
+
+<h2>7. Compartilhamento</h2>
+<p>Não vendemos, não compartilhamos e não transferimos dados pessoais a terceiros. O app não realiza transferência internacional de dados.</p>
+
+<h2>8. Segurança</h2>
+<p>Como o app não transmite dados, não há tráfego de rede a proteger. Os dados locais ficam na área privada do app, protegida pelo sistema de isolamento e permissões do Android. As mensagens de email ficam em conta com acesso restrito ao desenvolvedor. Recomendamos manter o bloqueio de tela do aparelho ativado.</p>
+
+<h2>9. Retenção e exclusão</h2>
+<ul>
+  <li><strong>Dados no aparelho:</strong> permanecem até você apagá-los. Você pode limpar os dados do app em <em>Configurações › Apps › Treino CGU › Armazenamento</em> ou desinstalar o app. Os nomes dos menus podem variar conforme o fabricante.</li>
+  <li><strong>Backup na Conta do Google:</strong> pode ser gerenciado ou excluído nas configurações de backup do Android e da sua Conta do Google.</li>
+  <li><strong>Emails:</strong> excluídos quando deixam de ser necessários ou mediante pedido.</li>
+</ul>
+<p>Como não existe conta de usuário nem servidor do app, não guardamos dados do app que possam ser excluídos do nosso lado.</p>
+
+<h2>10. Seus direitos</h2>
+<p>Nos termos do art. 18 da LGPD, você pode pedir, pelo email acima: confirmação da existência de tratamento; acesso; correção; anonimização, bloqueio ou eliminação; portabilidade; informação sobre compartilhamento; e informação sobre a possibilidade de não dar consentimento e revogação do consentimento. Responderemos em até 15 dias (art. 19, II). Você também pode peticionar à <a href="https://www.gov.br/anpd/pt-br">Autoridade Nacional de Proteção de Dados (ANPD)</a>.</p>
+<p>Como agente de tratamento de pequeno porte (Resolução CD/ANPD nº 2/2022, art. 11), não indicamos encarregado (DPO). O canal de comunicação com o titular é o email informado no item 1.</p>
+
+<h2>11. Crianças e adolescentes</h2>
+<p>O app é destinado a pessoas com 18 anos ou mais que estudam para concursos públicos de nível superior. O app não coleta dados de nenhum usuário, inclusive de crianças e adolescentes. Se um responsável acreditar que um menor nos enviou dados por email, pode pedir a exclusão pelo contato acima.</p>
+
+<h2>12. Independência</h2>
+<p>O Treino CGU é uma ferramenta de estudo independente. Não tem vínculo com a Controladoria-Geral da União (CGU), com o Cebraspe ou com a FGV, e não representa nenhum órgão público.</p>
+
+<h2>13. Alterações desta política</h2>
+<p>Se esta política mudar, publicaremos a nova versão neste mesmo endereço, com nova data de vigência. Se o app passar a coletar dados, esta política e a seção “Segurança dos dados” do Google Play serão atualizadas antes de a mudança entrar em vigor.</p>
+
+</section>
+
+<hr>
+
+<!-- ============================ ENGLISH ============================ -->
+<section class="version" id="en" lang="en">
+<h1>Privacy Policy — Treino CGU</h1>
+<p class="meta">Effective 5 October 2026 · Version 1.0. The Portuguese version above prevails in case of conflict.</p>
+
+<div class="summary">
+  <ul>
+    <li>The app works fully offline and <strong>has no internet permission</strong>.</li>
+    <li>There is no sign-up, login, advertising, analytics, tracking, or third-party library that collects data.</li>
+    <li>Your progress and favorites stay <strong>on your device only</strong>. We do not receive, see, or store them.</li>
+  </ul>
+</div>
+
+<h2>1. Who is responsible</h2>
+<p>The <strong>Treino CGU</strong> app (Google Play ID: <code>com.kora.treinocgu</code>) is developed and published by <strong>Kora</strong>, an independent developer (“we”). For the purposes of Brazil’s General Data Protection Law (Lei nº 13.709/2018, “LGPD”), Kora is the controller of any personal data processed as described in this policy.</p>
+<p>Privacy contact: <a href="mailto:edbogosian@investmaestri.com">edbogosian@investmaestri.com</a></p>
+
+<h2>2. Data the app does not collect</h2>
+<p>The app does not request, read, or send your name, email, phone number, documents, contacts, location, photos, camera, microphone, files, advertising ID, device identifiers, or any other personal information. The app requests no sensitive Android permissions.</p>
+
+<h2>3. Data stored on your device only</h2>
+<p>To show your progress, the app saves the following in its private Android storage:</p>
+<ul>
+  <li><strong>Per section test:</strong> number of attempts, best score, last score, number of error-free attempts, and the date and time of the last attempt.</li>
+  <li><strong>Per submitted mock exam:</strong> date and time, chosen size (100%, 50%, or 25%), total items, correct, wrong, and blank items, time used, time limit, and whether time ran out. Only the most recent mock exams are kept.</li>
+  <li><strong>Favorites:</strong> the list of items you marked with the star.</li>
+  <li><strong>Study indicators:</strong> the total number of questions answered and the study dates used to calculate your day streak and best streak.</li>
+  <li><strong>During a mock exam in progress:</strong> selected answers, items flagged for review, and elapsed time, so the exam is not lost if Android closes the app in the background.</li>
+</ul>
+<p>This data contains no name, email, or text you type, and it is not sent to us or to anyone else. Android’s app sandbox prevents other apps from reading it.</p>
+
+<h2>4. Android backup</h2>
+<p>If backup is turned on in your device settings, Android may include the data in section 3 in your Google Account backup and restore it when you install the app on another device. Google operates this service under the <a href="https://policies.google.com/privacy?hl=en">Google Privacy Policy</a>; we have no access to these backups. On Android 9 or later, the backup is end-to-end encrypted with your device’s screen-lock PIN, pattern, or password. You can turn backup off in Android settings.</p>
+
+<h2>5. Google Play</h2>
+<p>The app is downloaded and updated through Google Play, which processes data under Google’s privacy policy. Google Play Console shows us aggregate statistics (for example, install and rating counts) and technical crash and freeze reports from users who chose to share diagnostic data with Google. We use this information only to measure the app’s reach and fix bugs, and we do not combine it with other data to identify anyone. Public reviews you post on Google Play are visible to us and may receive a public reply.</p>
+
+<h2>6. Contacting us by email</h2>
+<p>If you write to us, we receive your email address and the content of your message. We use them only to reply and handle your request. The legal bases are legitimate interest (LGPD art. 7, IX) and, for data-subject requests, compliance with a legal obligation (art. 7, II). The mailbox is hosted by an email provider acting as a processor. We keep the conversation only as long as needed for that purpose and delete it on request, unless the law requires us to keep it.</p>
+
+<h2>7. Sharing</h2>
+<p>We do not sell, share, or transfer personal data to third parties. The app makes no international data transfers.</p>
+
+<h2>8. Security</h2>
+<p>Because the app transmits no data, there is no network traffic to protect. Local data stays in the app’s private storage, protected by Android’s sandbox and permission system. Email is kept in an account that only the developer can access. We recommend keeping your device’s screen lock turned on.</p>
+
+<h2>9. Retention and deletion</h2>
+<ul>
+  <li><strong>On-device data:</strong> kept until you delete it. You can clear the app’s data in <em>Settings › Apps › Treino CGU › Storage</em> or uninstall the app. Menu names vary by manufacturer.</li>
+  <li><strong>Google Account backup:</strong> can be managed or deleted in Android and Google Account backup settings.</li>
+  <li><strong>Email:</strong> deleted when no longer needed or on request.</li>
+</ul>
+<p>Because the app has no user accounts and no server, we hold no app data that could be deleted on our side.</p>
+
+<h2>10. Your rights</h2>
+<p>Under LGPD art. 18, you can ask us, by email, for confirmation that processing exists; access; correction; anonymization, blocking, or deletion; portability; information about sharing; and information about withholding consent and withdrawal of consent. We will reply within 15 days (art. 19, II). You may also file a petition with Brazil’s <a href="https://www.gov.br/anpd/pt-br">National Data Protection Authority (ANPD)</a>.</p>
+<p>As a small-scale processing agent (ANPD Resolution CD/ANPD nº 2/2022, art. 11), we have not appointed a data protection officer. The communication channel for data subjects is the email in section 1.</p>
+
+<h2>11. Children and teenagers</h2>
+<p>The app is intended for people aged 18 or older who are studying for Brazilian civil-service exams that require a university degree. The app collects no data from any user, including children and teenagers. If a parent or guardian believes a minor has emailed us personal data, they can ask us to delete it using the contact above.</p>
+
+<h2>12. Independence</h2>
+<p>Treino CGU is an independent study tool. It is not affiliated with the Controladoria-Geral da União (CGU), Cebraspe, or FGV, and it does not represent any government body.</p>
+
+<h2>13. Changes to this policy</h2>
+<p>If this policy changes, we will publish the new version at this same address with a new effective date. If the app ever starts collecting data, this policy and the Google Play Data safety section will be updated before the change takes effect.</p>
+</section>
+
+<footer>
+  <p>Treino CGU · com.kora.treinocgu · Kora · <a href="mailto:edbogosian@investmaestri.com">edbogosian@investmaestri.com</a></p>
+</footer>
+
+</main>
+</body>
+</html>
